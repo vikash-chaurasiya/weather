@@ -2,6 +2,8 @@
 Live weather forecast
 where you can see live weather of any city .
 
+Live site link -: https://gleaming-kheer-80b9f6.netlify.app/
+
 features - 
 
 	        1. Automatically locate your location and show weather.
