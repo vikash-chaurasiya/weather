@@ -11,7 +11,7 @@ feature -
 Language used -:   		
 
 	     1. HTML
-             2. Css
+         2. Css
 	     3. Bootstrape
 	     4. JavaScript
 
